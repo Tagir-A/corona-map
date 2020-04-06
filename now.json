@@ -1,0 +1,7 @@
+{
+  "build": {
+    "env": {
+      "GATSBY_MAPBOX_TOKEN": "@corona-mapbox-token"
+    }
+  }
+}
