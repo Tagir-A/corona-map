@@ -5,7 +5,7 @@
   "author": "Tagir Almasov <hello@tagir-a.com>",
   "dependencies": {
     "bent": "^7.1.2",
-    "gatsby": "^2.20.12",
+    "gatsby": "^2.32.13",
     "gatsby-plugin-manifest": "^2.3.3",
     "gatsby-plugin-react-helmet": "^3.2.1",
     "gatsby-plugin-react-leaflet": "2.0.12",
